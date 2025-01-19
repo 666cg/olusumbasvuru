@@ -1,0 +1,6 @@
+{
+    "token": "BOT TOKEN",
+    "applicationChannelId": "BOTUN ÇALIŞACAĞI KANAL ID",
+    "logChannelId": "LOG KANAL ID",
+    "allowedRoleId": "KOMUTU KULLANABİLECEK PERM ID"
+}
